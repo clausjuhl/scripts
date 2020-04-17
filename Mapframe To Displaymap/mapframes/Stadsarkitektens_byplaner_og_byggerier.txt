@@ -1,0 +1,1945 @@
+<mapframe text="Træk i kortet for at se byplaner og byggerier uden for den centrale del af Aarhus." width=475 height=650 zoom=13 latitude=56.154939 longitude=10.193927 align=right>
+{
+  "type": "FeatureCollection",
+  "features":  [
+{
+      "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [10.210985, 56.151800] },
+  "properties": {
+    "title": "[[Badeanstalten Spanien]] (1933)",
+    "marker-symbol": "swimming",
+    "marker-size": "medium",
+    "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.203207, 56.149756] },
+      "properties": {
+        "title": "Basarbygning på Bruunsbro (1936)",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.191668, 56.132558] },
+      "properties": {
+        "title": "[[Aarhus Cyklebane]], Genopførelse efter brand (1980)",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [10.287688, 56.210233] },
+  "properties": {
+    "title": "[[Egå Marina]] (1976)",
+    "marker-symbol": "harbor",
+    "marker-size": "medium",
+    "marker-color": "0050d0"
+      }
+    },
+{
+       "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [10.200273, 56.156515] },
+  "properties": {
+    "title": "[[Biblioteket i Mølleparken]] Udvidelse (1967)",
+    "marker-symbol": "library",
+    "marker-size": "medium",
+    "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [10.194900, 56.128751] },
+  "properties": {
+    "title": "[[Jydsk Væddeløbsbane]] (1977-1979)",
+    "description": "[[Fil:Væddeløbsbanen 1955, Børge Venge.jpg|200px]]",
+    "marker-symbol": "marker",
+    "marker-size": "medium",
+    "marker-color": "0050d0"
+      }
+    },
+{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [10.199353, 56.152699] },
+  "properties": {
+    "title": "[[Musikhuset Aarhus]] (1982)",
+    "marker-symbol": "music",
+    "marker-size": "medium",
+    "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.213324, 56.121953] },
+      "properties": {
+        "title": "[[Thors Mølle]] opført (1939) udvidet (1968) ",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.197991, 56.136631] },
+      "properties": {
+        "title": "Tivoli Frihedens scene (1959)",
+        "marker-symbol": "marker",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.178617, 56.159886] },
+      "properties": {
+        "title": "Vestre Kirkegård,[[Vestre Kirkegård#Vestre Kirkegårds kapeller|Kapel]] (1926-1927)",
+        "description": "[[Fil:Vestre Kirkegård, 1927, E. A. Ebbesen.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+     "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [10.193740, 56.132177] },
+  "properties": {
+    "title":"[[Aarhus Idrætspark]] (2001)",
+    "marker-symbol": "soccer",
+    "marker-size": "medium",
+    "marker-color": "0050d0"
+      }
+    },
+{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [10.196794, 56.144236] },
+  "properties": {
+    "title":"[[Aarhus Svømmestadion]] Overdækning (1986)",
+    "marker-symbol": "swimming",
+    "marker-size": "medium",
+    "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.200068, 56.151295] },
+      "properties": {
+        "title": "[[Brobjergskolen]] Udvidelse (1959-1961)",
+        "marker-symbol": "school",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.178463, 56.171114] },
+      "properties": {
+        "title": "[[Frydenlundskolen]] (1959-1960)",
+        "marker-symbol": "school",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.124539, 56.094267] },
+      "properties": {
+        "title": "[[Grønløkkeskolen]] (1972-1980)",
+        "marker-symbol": "school",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.196322, 56.173827] },
+      "properties": {
+        "title": "[[Katrinebjergskolen]] (1952-1957)",
+        "marker-symbol": "school",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.200680, 56.139482] },
+      "properties": {
+        "title": "[[Marselisborg Gymnasium]] Udvidelse (1954-1958)",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.201629, 56.142562] },
+      "properties": {
+        "title": "[[Marselisborg Seminarium]] (1958-1961)",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.198656, 56.144287] },
+      "properties": {
+        "title": "[[N.J. Fjordsgades Skole]] Tilbygning (1960-1961)",
+        "marker-symbol": "school",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.209863, 56.164709] },
+      "properties": {
+        "title": "[[Nørre Boulevards Skole]] Udvidelse (1961-1964)",
+        "marker-symbol": "school",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.207504, 56.104431] },
+      "properties": {
+        "title": "[[Skåde Skole]] Udvidelse (1979-1981)",
+        "marker-symbol": "school",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.199095, 56.185948] },
+      "properties": {
+        "title": "[[Vorrevangskolen]] (1953-1955)",
+        "marker-symbol": "school",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.207917, 56.177536] },
+      "properties": {
+        "title": "Abildgården (1965-1967)",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.199618, 56.153905] },
+      "properties": {
+        "title": "Arbejdsanstalten ([[Fattiggården]]) Ombygning (1936)",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.191588, 56.175953,] },
+      "properties": {
+        "title": "Plejehjemmet Bjerggården (1955-1959)",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.197011, 56.181505] },
+      "properties": {
+        "title": "[[Børneoptagelseshjemmet Højvang]] Ombygning (1936)",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.124889, 56.081111] },
+      "properties": {
+        "title": "Forsorgshjem på Trankær Mosevej (1969-1972)",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.192799, 56.154704] },
+      "properties": {
+        "title": "[[Lokalcenter Carl Blochs Gade]] (1998-1999)",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.305039, 56.229469] },
+      "properties": {
+        "title": "Lokalcenter Skæring (1998-2000)",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.189720, 56.141771] },
+      "properties": {
+        "title": "Revalideringsklinik (1962-65)",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [10.172471, 56.192029] },
+  "properties": {
+    "title": "[[Skejby Sygehus]] Strukturplan (1981)",
+    "marker-symbol": "hospital",
+    "marker-size": "medium",
+    "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.196975, 56.151613] },
+      "properties": {
+        "title": "Socialkontoret (1957-1959)",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.170131, 56.181224,] },
+      "properties": {
+        "title": "Toftegården plejehjem (1969-1979)",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.213679, 56.190402] }, 
+      "properties": {
+        "title": "Vikærgården Plejehjem (1971-1973)",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.175708, 56.177024] }, 
+      "properties": {
+        "title": "Børnehaven Landlyst (1947)",
+        "marker-symbol": "playground",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.202042, 56.187112] },
+      "properties": {
+        "title": "Børnehuset Nordlys (1967-1972)",
+        "marker-symbol": "playground",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.218073, 56.172308] },
+      "properties": {
+        "title": "Børnehuset Trolle (1969-1974)",
+        "marker-symbol": "playground",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.182882, 56.144333] },
+      "properties": {
+        "title": "Langenæs Børneinstitution (1968-1973)",
+        "marker-symbol": "playground",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.214082, 56.178347] },
+      "properties": {
+        "title": "Boliger i Polarforskerkvarteret (1926)",
+        "marker-symbol": "town",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.192617, 56.165381] },
+      "properties": {
+        "title": "Boliger på Poul Martin Møllers Vej 1-95 (1925-1926)",
+        "marker-symbol": "town",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.181799, 56.156408] },
+      "properties": {
+        "title": "Boliger på Silkeborgvej 92-94 (1962)",
+        "marker-symbol": "town",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.188075, 56.145162] },
+      "properties": {
+        "title": "Boliger på Søndre Ringgade 36-50 (1926)",
+        "marker-symbol": "town",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.191816, 56.167787] },
+      "properties": {
+        "title": "Boliger på Vestre Ringgade 178-186 (1950)",
+        "marker-symbol": "town",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.203730, 56.150546] },
+      "properties": {
+        "title": "[[Banegårdspladsen]] Omlægning (1975-1976)",
+        "marker-symbol": "monument",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.190313, 56.142988] },
+      "properties": {
+        "title": "[[Harald Jensens Plads]]Omlægning (1952)",
+        "marker-symbol": "monument",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.206089, 56.158402] },
+      "properties": {
+        "title": "[[Klostertorv]] Omlægning (1970-1971)",
+        "marker-symbol": "monument",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.203054, 56.153030] },
+      "properties": {
+        "title": "[[Rådhuspladsen]] Omlægning (1978)",
+        "marker-symbol": "monument",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.203873, 56.146257] },
+      "properties": {
+        "title": "Sct. Pauls Kirkes Nyordning af omgivelser (1963-1964)",
+        "marker-symbol": "monument",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.208491, 56.156070] },
+      "properties": {
+        "title": "Ny [[Skt. Clemens Bro]] (1980-1983)",
+        "marker-symbol": "marker",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.209251, 56.157215] },
+      "properties": {
+        "title": "[[Store Torv]] Omlægning (1970-1971)",
+        "marker-symbol": "monument",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.180919, 56.173016] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Charlottehøj|Charlottehøj Boligbebyggelse]] (1952-1953)",
+        "marker-symbol": "village",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.201580, 56.142815] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Dalgas Avenue|Dalgas Avenue bebyggelsesplaner for Seminarium og kollegier]] (1959-1962)",
+        "marker-symbol": "village",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.174828, 56.165702] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Frydenlund|Frydenlund Bebyggelsesplan]] (1961)",
+        "marker-symbol": "village",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.157880, 56.175905] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Herredsvang og Kalenderkvarteret|Herredsvang og Kalenderkvarteret Bebyggelsesplan, Kalenderkvarteret ]] (1968)",
+        "marker-symbol": "village",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.167669, 56.178992] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Herredsvang og Kalenderkvarteret|Herredsvang og Kalenderkvarteret Bebyggelsesplan, Herredsvang]] (1968)",
+        "marker-symbol": "village",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.182030, 56.143696] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Langenæs|Langenæs Bebyggelsesplan]] (1952-1956)",
+        "marker-symbol": "village",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.191398, 56.140044] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Marselis Boulevard|Marselis Boulevard Bebyggelsesplan]] (1955-1956)",
+        "marker-symbol": "village",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.202855, 56.174264] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Stjernepladsen|Stjernepladsen Bebyggelsesplaner]] (1949-1959)",
+        "marker-symbol": "village",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.195259, 56.163691] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Vestervang|Vestervang Bebyggelsesplan]] (1962)",
+        "marker-symbol": "village",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.200018, 56.186092] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Vorrevangen|Vorrevangen Bebyggelsesplan]] (1953)",
+        "marker-symbol": "village",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.205922, 56.155261] },
+      "properties": {
+        "title": "[[Busgaden]] (1969-1971)",
+        "marker-symbol": "bus",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.197979, 56.144754] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Frederiksbjerg|Frederiksbjerg byfornyelsesprojekt]] (1978-)",
+        "marker-symbol": "city",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.135368, 56.159552] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Gellerup|Gellerup Helhedsplanlægning]] (2007-nu)",
+        "marker-symbol": "city",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.201295, 56.156577] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Møllestien|Møllestien Saneringsplan]] (1968)",
+        "marker-symbol": "city",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.203912, 56.158148] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Nygade|Nygade Saneringsplaner]] (1950-1965)",
+        "marker-symbol": "city",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.204802, 56.154740] },
+      "properties": {
+        "title": "[[Ny Hovedgade|Ny Hovedgade, Plan om gadegennembrud]] (1944-1954)",
+        "description": "[[Fil:NyHovedgadeForloeb.jpg|150px]]",
+        "marker-symbol": "car",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.212455, 56.160969] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Nørreport|Nørreport Udvidelse og gadegennembrud]] (1958-1963)",
+        "marker-symbol": "car",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.189171, 56.067556] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Vilhelmsborg|Vilhelmsborg Restaurering]] (1997-1999)",
+        "marker-symbol": "farm",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.206408, 56.156674] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Aarhus Å, fritlægning|Aarhus Å, fritlægning]] (1985-1995)",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.192355, 56.154952] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Aarhus Å langs den tidligere Hammelbane|Aarhus Å langs den tidligere Hammelbane]] (1973)",
+        "marker-symbol": "park",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+]
+}
+</mapframe>
+
+
+
+
+#########
+# MAP 2 #
+#########
+
+
+<mapframe text="Kort over stadsarkitektens bebyggelsesplaner , samt stadsarkitektens sanerings, byfornyelses og bevarings planer. Træk i kortet for at se projekter uden for den centrale del af Aarhus." width=450 height=600 zoom=13 latitude=56.161858 longitude=10.179966 align=right>
+{
+  "type": "FeatureCollection",
+  "features":  [
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.180919, 56.173016] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Charlottehøj|Charlottehøj Boligbebyggelse]] (1952-1953)",
+        "marker-symbol": "village",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.201580, 56.142815] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Dalgas Avenue|Dalgas Avenue bebyggelsesplaner for Seminarium og kollegier]] (1959-1962)",
+        "marker-symbol": "village",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.174828, 56.165702] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Frydenlund|Frydenlund Bebyggelsesplan]] (1961)",
+        "marker-symbol": "village",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.157880, 56.175905] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Herredsvang og Kalenderkvarteret|Herredsvang og Kalenderkvarteret Bebyggelsesplan, Kalenderkvarteret ]] (1968)",
+        "marker-symbol": "village",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.167669, 56.178992] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Herredsvang og Kalenderkvarteret|Herredsvang og Kalenderkvarteret Bebyggelsesplan, Herredsvang]] (1968)",
+        "marker-symbol": "village",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.182030, 56.143696] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Langenæs|Langenæs Bebyggelsesplan]] (1952-1956)",
+        "marker-symbol": "village",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.191398, 56.140044] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Marselis Boulevard|Marselis Boulevard Bebyggelsesplan]] (1955-1956)",
+        "marker-symbol": "village",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.202855, 56.174264] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Stjernepladsen|Stjernepladsen Bebyggelsesplaner]] (1949-1959)",
+        "marker-symbol": "village",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.195259, 56.163691] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Vestervang|Vestervang Bebyggelsesplan]] (1962)",
+        "marker-symbol": "village",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.200018, 56.186092] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Vorrevangen|Vorrevangen Bebyggelsesplan]] (1953)",
+        "marker-symbol": "village",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.205922, 56.155261] },
+      "properties": {
+        "title": "[[Busgaden]] (1969-1971)",
+        "marker-symbol": "bus",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.197979, 56.144754] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Frederiksbjerg|Frederiksbjerg byfornyelsesprojekt]] (1978-)",
+        "marker-symbol": "city",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.135368, 56.159552] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Gellerup|Gellerup Helhedsplanlægning]] (2007-nu)",
+        "marker-symbol": "city",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.201295, 56.156577] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Møllestien|Møllestien Saneringsplan]] (1968)",
+        "marker-symbol": "city",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.203912, 56.158148] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Nygade|Nygade Saneringsplaner]] (1950-1965)",
+        "marker-symbol": "city",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.204802, 56.154740] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Ny Hovedgade|Ny Hovedgade, Plan om gadegennembrud]] (1944-1954)",
+        "marker-symbol": "car",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.212455, 56.160969] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Nørreport|Nørreport Udvidelse og gadegennembrud]] (1958-1963)",
+        "marker-symbol": "car",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.189171, 56.067556] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Vilhelmsborg|Vilhelmsborg Restaurering]] (1997-1999)",
+        "marker-symbol": "farm",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.206408, 56.156674] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Aarhus Å, fritlægning|Aarhus Å, fritlægning]] (1985-1995)",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.192355, 56.154952] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Aarhus Å langs den tidligere Hammelbane|Aarhus Å langs den tidligere Hammelbane]] (1973)",
+        "marker-symbol": "park",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+ {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.178441405296326,
+              56.17130119825407
+            ],
+            [
+              10.179744958877563,
+              56.17111006595817
+            ],
+            [
+              10.181198716163635,
+              56.17221503639475
+            ],
+            [
+              10.182985067367554,
+              56.17282723605527
+            ],
+            [
+              10.18034040927887,
+              56.175338645672404
+            ],
+            [
+              10.179160237312317,
+              56.175072880013346
+            ],
+            [
+              10.180453062057495,
+              56.17380076272895
+            ],
+            [
+              10.17957866191864,
+              56.173460329827705
+            ],
+            [
+              10.178414583206177,
+              56.17134898117939
+            ],
+            [
+              10.178441405296326,
+              56.17130119825407
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.176633596420288,
+              56.16498735628769
+            ],
+            [
+              10.176016688346863,
+              56.167021398852086
+            ],
+            [
+              10.17309308052063,
+              56.16696763699858
+            ],
+            [
+              10.172492265701292,
+              56.166113410783616
+            ],
+            [
+              10.17307698726654,
+              56.16452139304578
+            ],
+            [
+              10.174900889396667,
+              56.16456022353186
+            ],
+            [
+              10.174965262413025,
+              56.16486489213713
+            ],
+            [
+              10.176633596420288,
+              56.16498735628769
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.158383846282959,
+              56.17235240887532
+            ],
+            [
+              10.165958404541014,
+              56.17392917084627
+            ],
+            [
+              10.16958475112915,
+              56.1825643776012
+            ],
+            [
+              10.1668381690979,
+              56.18340032491241
+            ],
+            [
+              10.16286849975586,
+              56.183173426728224
+            ],
+            [
+              10.160143375396729,
+              56.17849185959597
+            ],
+            [
+              10.15737533569336,
+              56.17916068985977
+            ],
+            [
+              10.153834819793701,
+              56.18076105782994
+            ],
+            [
+              10.14962911605835,
+              56.17908903003177
+            ],
+            [
+              10.148577690124512,
+              56.17808577839318
+            ],
+            [
+              10.150916576385498,
+              56.17578058898717
+            ],
+            [
+              10.151238441467285,
+              56.17500419870117
+            ],
+            [
+              10.150809288024902,
+              56.17404861987222
+            ],
+            [
+              10.153019428253174,
+              56.173128852786576
+            ],
+            [
+              10.15462875366211,
+              56.173487206219114
+            ],
+            [
+              10.15784740447998,
+              56.173678326682236
+            ],
+            [
+              10.158383846282959,
+              56.17235240887532
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.184133052825928,
+              56.146541649043634
+            ],
+            [
+              10.181965827941895,
+              56.14546582434471
+            ],
+            [
+              10.179176330566406,
+              56.14421065746872
+            ],
+            [
+              10.176236629486084,
+              56.14213057640258
+            ],
+            [
+              10.175871849060059,
+              56.14092312139252
+            ],
+            [
+              10.176730155944824,
+              56.13972758401667
+            ],
+            [
+              10.18153667449951,
+              56.139608028234164
+            ],
+            [
+              10.187609195709229,
+              56.14302717687167
+            ],
+            [
+              10.186986923217773,
+              56.143553172746735
+            ],
+            [
+              10.187137126922607,
+              56.14381616798511
+            ],
+            [
+              10.184133052825928,
+              56.146541649043634
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.188124179840088,
+              56.164945539304576
+            ],
+            [
+              10.188564062118528,
+              56.16466476695309
+            ],
+            [
+              10.190581083297728,
+              56.16416892991519
+            ],
+            [
+              10.192930698394775,
+              56.16372087889356
+            ],
+            [
+              10.192909240722656,
+              56.16319515903064
+            ],
+            [
+              10.192426443099974,
+              56.16195849416395
+            ],
+            [
+              10.19482970237732,
+              56.161151952147705
+            ],
+            [
+              10.19555926322937,
+              56.161187798819164
+            ],
+            [
+              10.195977687835693,
+              56.163386330722446
+            ],
+            [
+              10.195355415344238,
+              56.164186851847326
+            ],
+            [
+              10.194143056869507,
+              56.16463489743322
+            ],
+            [
+              10.189100503921507,
+              56.16551902538931
+            ],
+            [
+              10.188124179840088,
+              56.164945539304576
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.197565555572508,
+              56.182755452877544
+            ],
+            [
+              10.197672843933105,
+              56.18276739505073
+            ],
+            [
+              10.199378728866577,
+              56.18310774542455
+            ],
+            [
+              10.203187465667725,
+              56.1841108658116
+            ],
+            [
+              10.208466053009033,
+              56.185836410372815
+            ],
+            [
+              10.207124948501587,
+              56.18623643903722
+            ],
+            [
+              10.202232599258423,
+              56.187693224600956
+            ],
+            [
+              10.199443101882935,
+              56.18858279186787
+            ],
+            [
+              10.194840431213379,
+              56.18667228641746
+            ],
+            [
+              10.197565555572508,
+              56.182755452877544
+            ]
+          ]
+        ]
+      }
+    }
+]
+}
+</mapframe>
+
+#########
+# MAP 3 #
+#########
+
+<mapframe text="Kort over de daginstitutioner, skoler og undervisningsinstitutioner som stadsarkitekten har arbejdet på. Træk i kortet for at se projekter uden for den centrale del af Aarhus." width=300 height=400 zoom=12 latitude=56.162060 longitude=10.196270 align=right>
+{
+  "type": "FeatureCollection",
+  "features":  [
+{
+       "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.175708, 56.177024] }, 
+      "properties": {
+        "title": "Børnehaven Landlyst (1947)",
+        "marker-symbol": "playground",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.202042, 56.187112] },
+      "properties": {
+        "title": "Børnehuset Nordlys (1967-1972)",
+        "marker-symbol": "playground",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.218073, 56.172308] },
+      "properties": {
+        "title": "Børnehuset Trolle (1969-1974)",
+        "marker-symbol": "playground",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.182882, 56.144333] },
+      "properties": {
+        "title": "Langenæs Børneinstitution (1968-1973)",
+        "marker-symbol": "playground",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.200068, 56.151295] },
+      "properties": {
+        "title": "[[Brobjergskolen]] Udvidelse (1959-1961)",
+        "marker-symbol": "school",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.178463, 56.171114] },
+      "properties": {
+        "title": "[[Frydenlundskolen]] (1959-1960)",
+        "marker-symbol": "school",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.124539, 56.094267] },
+      "properties": {
+        "title": "[[Grønløkkeskolen]] (1972-1980)",
+        "marker-symbol": "school",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.196322, 56.173827] },
+      "properties": {
+        "title": "[[Katrinebjergskolen]] (1952-1957)",
+        "marker-symbol": "school",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.200680, 56.139482] },
+      "properties": {
+        "title": "[[Marselisborg Gymnasium]] Udvidelse (1954-1958)",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.201629, 56.142562] },
+      "properties": {
+        "title": "[[Marselisborg Seminarium]] (1958-1961)",
+        "marker-symbol": "college",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.198656, 56.144287] },
+      "properties": {
+        "title": "[[N.J. Fjordsgades Skole]] Tilbygning (1960-1961)",
+        "marker-symbol": "school",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.209863, 56.164709] },
+      "properties": {
+        "title": "[[Nørre Boulevards Skole]] Udvidelse (1961-1964)",
+        "marker-symbol": "school",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.207504, 56.104431] },
+      "properties": {
+        "title": "[[Skåde Skole]] Udvidelse (1979-1981)",
+        "marker-symbol": "school",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.199095, 56.185948] },
+      "properties": {
+        "title": "[[Vorrevangskolen]] (1953-1955)",
+        "marker-symbol": "school",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+]
+}
+</mapframe>
+
+#########
+# MAP 4 #
+#########
+
+
+<mapframe text="Kort over de institutioner for sundhed og omsorg som stadsarkitekten har arbejdet på." width=325 height=400 zoom=12 latitude=56.165906 longitude=10.196947 align=right>
+{
+  "type": "FeatureCollection",
+  "features":  [
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.207917, 56.177536] },
+      "properties": {
+        "title": "Abildgården (1965-1967)",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.199618, 56.153905] },
+      "properties": {
+        "title": "Arbejdsanstalten ([[Fattiggården]]) Ombygning (1936)",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.191588, 56.175953,] },
+      "properties": {
+        "title": "Plejehjemmet Bjerggården (1955-1959)",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.197011, 56.181505] },
+      "properties": {
+        "title": "[[Børneoptagelseshjemmet Højvang]] Ombygning (1936)",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.124889, 56.081111] },
+      "properties": {
+        "title": "Forsorgshjem på Trankær Mosevej (1969-1972)",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.192799, 56.154704] },
+      "properties": {
+        "title": "[[Lokalcenter Carl Blochs Gade]] (1998-1999)",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.305039, 56.229469] },
+      "properties": {
+        "title": "Lokalcenter Skæring (1998-2000)",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.189720, 56.141771] },
+      "properties": {
+        "title": "Revalideringsklinik (1962-65)",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [10.172471, 56.192029] },
+  "properties": {
+    "title": "[[Skejby Sygehus]] Strukturplan (1981)",
+    "marker-symbol": "hospital",
+    "marker-size": "medium",
+    "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.196975, 56.151613] },
+      "properties": {
+        "title": "Socialkontoret (1957-1959)",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.170131, 56.181224,] },
+      "properties": {
+        "title": "Toftegården plejehjem (1969-1979)",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.213679, 56.190402] }, 
+      "properties": {
+        "title": "Vikærgården Plejehjem (1971-1973)",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    }
+]
+}
+</mapframe>
+
+#########
+# MAP 5 #
+#########
+
+<mapframe text="Kort over Kultur, sport og forlystelses bygninger som stadsarkitekten har arbejdet på. Træk i kortet for at se projekter uden for den centrale del af Aarhus." width=300 height=300 zoom=12 latitude=56.145254 longitude=10.202018 align=right>
+{
+  "type": "FeatureCollection",
+  "features":  [
+{
+      "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [10.210985, 56.151800] },
+  "properties": {
+    "title": "[[Badeanstalten Spanien]] (1933)",
+    "marker-symbol": "swimming",
+    "marker-size": "medium",
+    "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.203207, 56.149756] },
+      "properties": {
+        "title": "Basarbygning på Bruunsbro (1936)",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.191668, 56.132558] },
+      "properties": {
+        "title": "[[Aarhus Cyklebane]], Genopførelse efter brand (1980)",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [10.287688, 56.210233] },
+  "properties": {
+    "title": "[[Egå Marina]] (1976)",
+    "marker-symbol": "harbor",
+    "marker-size": "medium",
+    "marker-color": "0050d0"
+      }
+    },
+{
+       "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [10.200273, 56.156515] },
+  "properties": {
+    "title": "[[Biblioteket i Mølleparken]] Udvidelse (1967)",
+    "marker-symbol": "library",
+    "marker-size": "medium",
+    "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [10.194900, 56.128751] },
+  "properties": {
+    "title": "[[Jydsk Væddeløbsbane]] (1977-1979)",
+    "description": "[[Fil:Væddeløbsbanen 1955, Børge Venge.jpg|200px]]",
+    "marker-symbol": "marker",
+    "marker-size": "medium",
+    "marker-color": "0050d0"
+      }
+    },
+{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [10.199353, 56.152699] },
+  "properties": {
+    "title": "[[Musikhuset Aarhus]] (1982)",
+    "marker-symbol": "music",
+    "marker-size": "medium",
+    "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.213324, 56.121953] },
+      "properties": {
+        "title": "[[Thors Mølle]] opført (1939) udvidet (1968) ",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.197991, 56.136631] },
+      "properties": {
+        "title": "Tivoli Frihedens scene (1959)",
+        "marker-symbol": "marker",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.178617, 56.159886] },
+      "properties": {
+        "title": "Vestre Kirkegård,[[Vestre Kirkegård#Vestre Kirkegårds kapeller|Kapel]] (1926-1927)",
+        "description": "[[Fil:Vestre Kirkegård, 1927, E. A. Ebbesen.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+     "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [10.193740, 56.132177] },
+  "properties": {
+    "title":"[[Aarhus Idrætspark]] (2001)",
+    "marker-symbol": "soccer",
+    "marker-size": "medium",
+    "marker-color": "0050d0"
+      }
+    },
+{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [10.196794, 56.144236] },
+  "properties": {
+    "title":"[[Aarhus Svømmestadion]] Overdækning (1986)",
+    "marker-symbol": "swimming",
+    "marker-size": "medium",
+    "marker-color": "0050d0"
+      }
+    }
+]
+}
+</mapframe>
+
+
+#########
+# MAP 6 #
+#########
+
+<mapframe text="Boliger som stadsarkitekten har arbejdet på." width=300 height=450 zoom=13 latitude=56.162549 longitude=10.198789 align=right>
+{
+  "type": "FeatureCollection",
+  "features":  [
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.213462, 56.178177] },
+      "properties": {
+        "title": "Boliger i Polarforskerkvarteret (1926)",
+        "marker-symbol": "town",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.192611, 56.165208] },
+      "properties": {
+        "title": "Boliger på Poul Martin Møllers Vej 1-95 (1925-1926)",
+        "marker-symbol": "town",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.181799, 56.156408] },
+      "properties": {
+        "title": "Boliger på Silkeborgvej 92-94 (1962)",
+        "marker-symbol": "town",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.187886, 56.145187,] },
+      "properties": {
+        "title": "Boliger på Søndre Ringgade 36-50 (1926)",
+        "marker-symbol": "town",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.191816, 56.167787] },
+      "properties": {
+        "title": "Boliger på Vestre Ringgade 178-186 (1950)",
+        "marker-symbol": "town",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.213149189949036,
+              56.177605044357705
+            ],
+            [
+              10.21315723657608,
+              56.17759757949602
+            ],
+            [
+              10.214112102985382,
+              56.1776528194381
+            ],
+            [
+              10.214372277259827,
+              56.177463211737525
+            ],
+            [
+              10.214889943599701,
+              56.177512479970254
+            ],
+            [
+              10.215072333812714,
+              56.17737512595174
+            ],
+            [
+              10.215485394001007,
+              56.177361689119195
+            ],
+            [
+              10.215437114238739,
+              56.17834704436573
+            ],
+            [
+              10.21450102329254,
+              56.1782903124771
+            ],
+            [
+              10.213927030563353,
+              56.17823955229518
+            ],
+            [
+              10.213747322559357,
+              56.179421948516485
+            ],
+            [
+              10.212730765342712,
+              56.179357753697055
+            ],
+            [
+              10.212408900260925,
+              56.179327895604914
+            ],
+            [
+              10.212897062301634,
+              56.17759011463289
+            ],
+            [
+              10.213149189949036,
+              56.177605044357705
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.194794833660126,
+              56.16474093412368
+            ],
+            [
+              10.194899439811707,
+              56.164924630795944
+            ],
+            [
+              10.189379453659058,
+              56.16580277835823
+            ],
+            [
+              10.189223885536192,
+              56.165629539952754
+            ],
+            [
+              10.194794833660126,
+              56.16474093412368
+            ]
+          ]
+        ]
+      }
+    },
+ {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.181547403335571,
+              56.156345207993716
+            ],
+            [
+              10.182081162929535,
+              56.156366121172695
+            ],
+            [
+              10.182070434093474,
+              56.15651400689918
+            ],
+            [
+              10.181515216827393,
+              56.15648263724719
+            ],
+            [
+              10.181547403335571,
+              56.156345207993716
+            ]
+          ]
+        ]
+      }
+    }, 
+{
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.18857479095459,
+              56.144587211835336
+            ],
+            [
+              10.188778638839722,
+              56.14467387858795
+            ],
+            [
+              10.187416076660156,
+              56.14567202641143
+            ],
+            [
+              10.187169313430784,
+              56.14558835034383
+            ],
+            [
+              10.18857479095459,
+              56.144587211835336
+            ]
+          ]
+        ]
+      }
+    },
+ {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.191096067428589,
+              56.16760082738539
+            ],
+            [
+              10.191401839256285,
+              56.16746045117204
+            ],
+            [
+              10.19245594739914,
+              56.16801448622173
+            ],
+            [
+              10.192147493362427,
+              56.16814590037067
+            ],
+            [
+              10.191096067428589,
+              56.16760082738539
+            ]
+          ]
+        ]
+      }
+    }
+]
+}
+</mapframe>

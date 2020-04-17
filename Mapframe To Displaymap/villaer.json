@@ -1,0 +1,863 @@
+{
+  "type": "FeatureCollection",
+  "features":  [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.211010, 56.170370] },
+      "properties": {
+        "title": "[[Trøjborgvej 58-66]], 'Villa Aldersro'",
+        "description": "[[Fil:Trøjborgvej 58-66 (villa Aldersro)..jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "FF0000"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.211157, 56.171383] },
+      "properties": {
+        "title": "[[Aldersrovej 21]], 'Villa Granly'",
+        "description": "[[Fil:Aldersrovej 21 (Villa Granly)..jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.210879, 56.172022] },
+      "properties": {
+        "title": "[[Aldersrovej 27B]], 'Villa Montana'",
+        "description": "[[Fil:Aldersrovej 27B (Villa Montana).jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.210809, 56.172199] },
+      "properties": {
+        "title": "[[Aldersrovej 29]], 'Villa Dan'",
+        "description": "[[Fil:Aldersrovej 29 (villa Dan).jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.210763, 56.172351] },
+      "properties": {
+        "title": "[[Aldersrovej 31]], 'Villa Frem'",
+        "description": "[[Fil:Aldersrovej 31 (villa Frem)..jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.209500, 56.171076] },
+      "properties": {
+        "title": "[[Barthsgade 12]]",
+        "description": "[[Fil:Barthsgade 12.jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "FF0000"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.209221, 56.171488] },
+      "properties": {
+        "title": "[[Barthsgade 15]], 'Villa Fredebo'",
+        "description": "[[Fil:Barthsgade 15 (villa fredebo).jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.209848, 56.171803] },
+      "properties": {
+        "title": "[[Barthsgade 20]], 'Villa Lindehøj'",
+        "description": "[[Fil:Barthsgade 20 (villa Lindehøj).jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.219338, 56.168914] },
+      "properties": {
+        "title": "[[Dronning Margrethes Vej 4]], 'Villa Trøjborg'",
+        "description": "[[Fil:Dronning Margrethes Vej 4.jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "FF0000"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.220021, 56.168792] },
+      "properties": {
+        "title": "[[Dronning Margrethes Vej 6]], 'Villa Tårnborg'",
+        "description": "[[Fil:Dronning Margrethes Vej 6 (villa Tårnborg).jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.220180, 56.169030] },
+      "properties": {
+        "title": "[[Dronning Margrethes Vej 8]], 'Villa Riisbo'",
+        "description": "[[Fil:Dronning Margrethes Vej 8 (villa Riisbo) og 10-12 (villa Tamina) .jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.219943, 56.169148] },
+      "properties": {
+        "title": "[[Dronning Margrethes Vej 10-12]], 'Villa Tamina'",
+        "description": "[[Fil:Dronning Margrethes Vej 8 (villa Riisbo) og 10-12 (villa Tamina) .jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.219545, 56.169152] },
+      "properties": {
+        "title": "[[Dronning Margrethes Vej 14]], 'Villa Pax'",
+        "description": "[[Fil:Dronning Margrethes Vej 14 (villa Pax) .jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.208084, 56.171939] },
+      "properties": {
+        "title": "[[Nordre Ringgade 58]], 'Villa Solvænge'",
+        "description": "[[Fil:Nordre Ringgade 58 (villa Solvænge).jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "FF0000"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.208529, 56.171769] },
+      "properties": {
+        "title": "[[Nordre Ringgade 60]], 'Villa Mimosa'",
+        "description": "[[Fil:Nordre Ringgade 60 (Villa Mimosa).jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "FF0000"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.210089, 56.172295] },
+      "properties": {
+        "title": "[[Nordre Ringgade 68]], 'Villa Rosenvang'",
+        "description": "[[Fil:Nordre Ringgade 68 (villa Rosenvang).jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.210387, 56.172314] },
+      "properties": {
+        "title": "[[Nordre Ringgade 70]], 'Villa Rødebøge'",
+        "description": "[[Fil:Nordre Ringgade 70 (Villa Rødebøge).jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.219272, 56.168022] },
+      "properties": {
+        "title": "[[Skovvejen 46M]], 'Villa Højbo'",
+        "description": "[[Fil:Skovvejen 46m (Villa Højbo).jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.219214, 56.168310] },
+      "properties": {
+        "title": "[[Skovvejen 46N]], 'Villa Sunhill'",
+        "description": "[[Fil:Skovvejen 46n .jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.218414, 56.169141] },
+      "properties": {
+        "title": "[[Trøjborgvej 2D]]",
+        "description": "[[Fil:Trøjborgvej 2D.jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.209820, 56.170596] },
+      "properties": {
+        "title": "[[Trøjborgvej 74]], 'Villa Fairhill'",
+        "description": "[[Fil:Trøjborgvej 74 (Villa Fairhill).jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.210715, 56.163931] },
+      "properties": {
+        "title": "[[Kirkegårdsvej 2]]",
+        "description": "[[Fil:Kirkegårdsvej 2.jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "FF0000"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.211051, 56.164144] },
+      "properties": {
+        "title": "[[Kirkegårdsvej 4]]",
+        "description": "[[Fil:Kirkegårdsvej 4-6.jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "FF0000"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.211195, 56.164254] },
+      "properties": {
+        "title": "[[Kirkegårdsvej 6]]",
+        "description": "[[Fil:Kirkegårdsvej 4-6.jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "FF0000"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.211045, 56.164469] },
+      "properties": {
+        "title": "[[Kirkegårdsvej 19]]",
+        "description": "[[Fil:Kirkegårdsvej 19.jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.200374, 56.162708] },
+      "properties": {
+        "title": "[[Falstersgade 17]], 'Villa Bakkehus'",
+        "description": "[[Fil:Falstersgade 17 (Villa Bakkehus). Claus Jensen..jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "FF0000"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.200352, 56.162959] },
+      "properties": {
+        "title": "[[Falstersgade 19]], 'Villa Udsigten'",
+        "description": "[[Fil:Falstersgade 19 (Villa udsigten). Poul Pedersen..jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "FF0000"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.199834, 56.163078] },
+      "properties": {
+        "title": "[[Falstersgade 21]]",
+        "description": "[[Fil:Falstersgade 21. Poul Pedersen..jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.199710, 56.163766] },
+      "properties": {
+        "title": "[[Falstersgade 35]], 'Villa Rolighed'",
+        "description": "[[Fil:Falstersgade 35. (villa Rolighed). Poul Pedersen for Den Gamle By.jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.199590, 56.163846] },
+      "properties": {
+        "title": "[[Falstersgade 37]], 'Villa Landlyst'",
+        "description": "[[Fil:Falstersgade 37 (villa Landlyst). Claus Jensen. Aarhus Stadsarkiv..jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "FF0000"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.209047, 56.162339] },
+      "properties": {
+        "title": "[[Hjelmensgade 22]]",
+        "description": "[[Fil:Hjelmensgade 22. Poul Pedersen, Stadsarkitektens Kontor..jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.209457, 56.162794] },
+      "properties": {
+        "title": "[[Høegh-Guldbergs Gade 49]], 'Villa Enrum'",
+        "description": "[[Fil:Villa Enrum.jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "FF0000"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.207817, 56.163238] },
+      "properties": {
+        "title": "[[Høegh-Guldbergs Gade 69]], 'Villa Højbo'",
+        "description": "[[Fil:Høegh-Guldbergs Gade 69 (villa Højbo) Poul Pedersen, Stadsarkitektens Kontor.jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.207329, 56.162893] },
+      "properties": {
+        "title": "[[Høegh-Guldbergs Gade 69C]], 'Villa Sølyst'",
+        "description": "[[Fil:Høegh-Guldbergs Gade 69c (villa Sølyst). Poul Pedersen, Stadsarkitektens Kontor..jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.198432, 56.164537] },
+      "properties": {
+        "title": "[[Kaserneboulevarden 23]]",
+        "description": "[[Fil:Kaserneboulevarden 23, 25. Poul Pedersen..jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.198182, 56.164518] },
+      "properties": {
+        "title": "[[Kaserneboulevarden 25]]",
+        "description": "[[Fil:Kaserneboulevarden 23, 25. Poul Pedersen..jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.197325, 56.159654] },
+      "properties": {
+        "title": "[[Langelandsgade 35A]]",
+        "description": "[[Fil:Langelandsgade 35A..jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "FF0000"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.197817, 56.163815] },
+      "properties": {
+        "title": "[[Langelandsgade 102-104]]",
+        "description": "[[Fil:Langelandsgade 102-104. Poul Pedersen, Stadsarkitektens Kontor..jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.197356, 56.163915] },
+      "properties": {
+        "title": "[[Langelandsgade 106]], 'Villa Solbakken'",
+        "description": "[[Fil:Langelandsgade 106 (villa Solbakken). Poul Pedersen, Stadsarkitektens Kontor..jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "FF0000"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.197354, 56.164101] },
+      "properties": {
+        "title": "[[Langelandsgade 108]], 'Villa Olympia'",
+        "description": "[[Fil:Langelandsgade 106 (villa Solbakken). Poul Pedersen, Stadsarkitektens Kontor..jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "FF0000"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.205813, 56.160437] },
+      "properties": {
+        "title": "[[Nørre Allé 34]], 'Rømers villa'",
+        "description": "[[Fil:Nørre Allé 34. Poul Pedersen, Stadsarkitektens Kontor..jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.205581, 56.160218] },
+      "properties": {
+        "title": "[[Nørre Allé 42]]",
+        "description": "[[Fil:Nørre Allé 42. Poul Pedersen, Stadsarkitektens Kontor..jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.205418, 56.160655] },
+      "properties": {
+        "title": "[[Nørre Allé 42A]]",
+        "description": "[[Fil:Nørre Allé 42A. Poul Pedersen, Stadsarkitektens Kontor..jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.205360, 56.160864] },
+      "properties": {
+        "title": "[[Nørre Allé 42B]]",
+        "description": "[[Fil:Nørre Allé 42B. Poul Pedersen, Stadsarkitektens Kontor..jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.205090, 56.160169] },
+      "properties": {
+        "title": "[[Nørre Allé 44]]",
+        "description": "[[Fil:Nørre Allé 44. Poul Pedersen, Stadsarkitektens Kontor..jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.204959, 56.160618] },
+      "properties": {
+        "title": "[[Nørre Allé 44A]]",
+        "description": "[[Fil:Nørre Allé 44A. Poul Pedersen, Stadsarkitektens Kontor..jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.208012, 56.162471] },
+      "properties": {
+        "title": "[[Thunøgade 2A]]",
+        "description": "",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "FF0000"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.206019, 56.161263] },
+      "properties": {
+        "title": "[[Thunøgade 11]]",
+        "description": "[[Fil:Thunøgade11 PoulPedersen 1968.jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "FF0000"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.206612, 56.161859] },
+      "properties": {
+        "title": "[[Thunøgade 12B]]",
+        "description": "[[Fil:Thunøgade 12B. Poul Pedersen, Stadsarkitektens Kontor..jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.206478, 56.161727] },
+      "properties": {
+        "title": "[[Thunøgade 14]]",
+        "description": "[[Fil:Thunøgade 12B. Poul Pedersen, Stadsarkitektens Kontor..jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.206314, 56.161586] },
+      "properties": {
+        "title": "[[Thunøgade 16]]",
+        "description": "[[Fil:Thunøgade 16. Poul Pedersen, Stadsarkitektens Kontor..jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.205390, 56.161199] },
+      "properties": {
+        "title": "[[Thunøgade 19]]",
+        "description": "[[Fil:Thunøgade 19. Aage Fredslund Andersen, Aarhus Stadsarkiv..jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.204867, 56.161541] },
+      "properties": {
+        "title": "[[Thunøgade 26B]], 'villa Derby'",
+        "description": "[[Fil:Thunøgade 26B. Poul Pedersen, Stadsarkitektens Kontor..jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.204787, 56.161063] },
+      "properties": {
+        "title": "[[Thunøgade 31]]",
+        "description": "[[Fil:Thunøgade 31. Poul Pedersen, Stadsarkitektens Kontor.jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.204388, 56.161435] },
+      "properties": {
+        "title": "[[Thunøgade 32B]]",
+        "description": "[[Fil:Thunøgade 32B. Poul Pedersen..jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.204563, 56.161068] },
+      "properties": {
+        "title": "[[Thunøgade 33]]",
+        "description": "[[Fil:Thunøgade 31. Poul Pedersen, Stadsarkitektens Kontor.jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.204254, 56.161237] },
+      "properties": {
+        "title": "[[Thunøgade 40]]",
+        "description": "[[Fil:Thunøgade 40. Poul Pedersen..jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.208301, 56.146783] },
+      "properties": {
+        "title": "[[Heibergsgade 9-11]]",
+        "description": "[[Fil:Heibergsgade 9-11, 15-17.jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.208246, 56.146594] },
+      "properties": {
+        "title": "[[Heibergsgade 15-17]], 'villa Stenhøj'",
+        "description": "[[Fil:Heibergsgade 9-11, 15-17.jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.208165, 56.147827] },
+      "properties": {
+        "title": "[[Marselisborg Allé 3B]]",
+        "description": "",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "FF0000"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.207853, 56.147765] },
+      "properties": {
+        "title": "[[Marselisborg Allé 5]]",
+        "description": "[[Fil:Marselisborg Alle 5-7.jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.208468, 56.147631] },
+      "properties": {
+        "title": "[[Marselisborg Allé 5C]]",
+        "description": "[[Fil:Marselisborg Allé 5c (5a).jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.207742, 56.147602] },
+      "properties": {
+        "title": "[[Marselisborg Allé 7]]",
+        "description": "[[Fil:Marselisborg Alle 5-7.jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.207576, 56.147485] },
+      "properties": {
+        "title": "[[Marselisborg Allé 9]]",
+        "description": "[[Fil:Marselisborg Allé 9.jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.207182, 56.147632] },
+      "properties": {
+        "title": "[[Marselisborg Allé 10]]",
+        "description": "[[Fil:Marselisborg Allé 10.jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "FF0000"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.206087, 56.146452] },
+      "properties": {
+        "title": "[[Skt. Pauls Gade 1]]",
+        "description": "[[Fil:Skt. Pauls gade 1.jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.205744, 56.146371] },
+      "properties": {
+        "title": "[[Skt. Pauls Gade 3]]",
+        "description": "[[Fil:Skt. Pauls gade 3.jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.205459, 56.146393] },
+      "properties": {
+        "title": "[[Skt. Pauls Gade 5]]",
+        "description": "[[Fil:Skt. Pauls gade 5.jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.201195, 56.146380] },
+      "properties": {
+        "title": "[[Skt. Pauls Gade 42]], 'Villa Nico'",
+        "description": "[[Fil:Skt. Pauls Gade 42 (villa Nico).jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "FF0000"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.208529, 56.147324] },
+      "properties": {
+        "title": "[[Strandvejen 12]], 'Lille Rosenborg'",
+        "description": "[[Fil:Strandvejen 12 (Lille Rosenborg).jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.209033, 56.134427] },
+      "properties": {
+        "title": "[[Carl Nielsens Vej 1]]",
+        "description": "",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.201740, 56.178209] },
+      "properties": {
+        "title": "[[Birkegade 2]], 'Villa Birkebo'",
+        "description": "",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.201783, 56.177150] },
+      "properties": {
+        "title": "[[Egegade 6]]",
+        "description": "",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.201747, 56.177208] },
+      "properties": {
+        "title": "[[Egegade 8]]",
+        "description": "",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.202531, 56.176677] },
+      "properties": {
+        "title": "[[Skovvangsvej 17a]]",
+        "description": "[[Fil:Skovvangsvej 17-19.jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.202669, 56.176659] },
+      "properties": {
+        "title": "[[Skovvangsvej 19]]",
+        "description": "[[Fil:Skovvangsvej 17-19.jpg|175px]]",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.203026, 56.176677] },
+      "properties": {
+        "title": "[[Skovvangsvej 21]]",
+        "description": "",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.203363, 56.176111] },
+      "properties": {
+        "title": "[[Tjørnegade 4]]",
+        "description": "",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    }
+  ]
+}

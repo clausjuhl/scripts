@@ -1,0 +1,610 @@
+{
+  "type": "FeatureCollection",
+  "features":  [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.210567, 56.156916] },
+      "properties": {
+        "title": "[[Aarhus Domkirke]]",
+        "description": "[[File:Aarhus Domkirke 1902.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.206814, 56.160055] },
+      "properties": {
+        "title": "[[Apostolsk Kirke]]",
+        "description": "[[File:Apostolsk kirke noerre alle 1890-1900 hammerschmidt.jpg|175px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.195584, 56.177663] },
+      "properties": {
+        "title": "[[Christianskirken]]",
+        "description": "[[File:Christianskirken 15-04-2019 01.jpg|150px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.101424, 56.151845] },
+      "properties": {
+        "title": "[[Brabrand Kirke]]",
+        "description": "[[Fil:Brabrand Kirke 1962. Børge Andre Venge.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.133946, 56.155774] },
+      "properties": {
+        "title": "[[Gellerup Kirke]]",
+        "description": "[[Fil:Gellerup Kirke.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.174450, 56.114290] },
+      "properties": {
+        "title": "[[Holme Kirke]]",
+        "description": "[[File:Aarhus Domkirke 1902.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.204440, 56.151540] },
+      "properties": {
+        "title": "[[Katolsk Vor Frue Kirke]]",
+        "description": "[[File:Katolsk vor frue kirke ca 1928 dgb.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.194528, 56.039659] },
+      "properties": {
+        "title": "[[Malling Kirke]]",
+        "description": "[[Fil:Malling Kirke 1956, Thomas Pedersen.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.182620, 56.165751] },
+      "properties": {
+        "title": "[[Møllevangskirken]]",
+        "description": "[[Fil:Møllevangskirken 1970, Thomas Pedersen.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.203960, 56.146150] },
+      "properties": {
+        "title": "[[Sct. Pauls Kirke]]",
+        "description": "[[File:Sct pauls kirke hammerschmidt fotosamling 1893-1897.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.210169, 56.169155] },
+      "properties": {
+        "title": "[[Skt. Johannes Kirke]]",
+        "description": "[[File:Skt johannes ca 1909 den gamle by.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.193923, 56.144788] },
+      "properties": {
+        "title": "[[Skt. Lukas Kirke]]",
+        "description": "[[File:Skt lukas kirke boerge venge 1951.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.197655, 56.160850] },
+      "properties": {
+        "title": "[[Skt. Markus Kirke]]",
+        "description": "[[File:Skt Markus Kirke 15-04-2019 01.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.200214, 56.150914] },
+      "properties": {
+        "title": "[[Skt. Nikolajs Kirke]]",
+        "description": "[[File:Apostolsk kirke sct nikolajs kirke boerge venge 1956.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.213044, 56.158357] },
+      "properties": {
+        "title": "[[Skt. Olufs Kirke]]",
+        "description": "[[File:Sct Olufs Kirke 15-04-2019 01.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "FF0000"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.165708, 56.128211] },
+      "properties": {
+        "title": "[[Viby Kirke]]",
+        "description": "[[Fil:Viby Kirke 1954, Thomas Pedersen.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.204861, 56.158106] },
+      "properties": {
+        "title": "[[Vor Frue Kirke]]",
+        "description": "[[File:Vor frue kirke ca 1905 dgb.jpg|175px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.157309, 56.155116] },
+      "properties": {
+        "title": "[[Åbyhøj Kirke]]",
+        "description": "[[Fil:Åbyhøj Kirke 1954, Poul Pedersen.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.162327, 56.145637] },
+      "properties": {
+        "title": "[[Gl. Åby Kirke]]",
+        "description": "[[Fil:Gl. Åby Kirke.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.187247, 56.109285] },
+      "properties": {
+        "title": "[[Lyseng Kirke]]",
+        "description": "[[File:Aarhus Domkirke 1902.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.183557, 56.129223] },
+      "properties": {
+        "title": "[[Fredenskirken]]",
+        "description": "[[File:Aarhus Domkirke 1902.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.178386, 56.141008] },
+      "properties": {
+        "title": "[[Langenæskirken]]",
+        "description": "[[File:Langenæs kirken boerge venge 1966.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.202141, 56.160957] },
+      "properties": {
+        "title": "[[Betlehemskirken]]",
+        "description": "[[File:Aarhus Metodist Kirke 15-04-2019 .jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.236320, 56.188192] },
+      "properties": {
+        "title": "[[Risskov Kirke]]",
+        "description": "[[Fil:Jørn Timm Risskov Kirke 1962.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.194848, 56.192284] },
+      "properties": {
+        "title": "[[Skelager Kirke]]",
+        "description": "[[File:Aarhus Domkirke 1902.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.174678, 56.199871] },
+      "properties": {
+        "title": "[[Skejby Kirke]]",
+        "description": "[[Fil:Skejby Kirke 1951, Børge Andre Venge.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.211815, 56.195161] },
+      "properties": {
+        "title": "[[Vejlby Kirke]]",
+        "description": "[[Fil:Vejlby Kirke, Jørn Timm 1961.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.217810, 56.202135] },
+      "properties": {
+        "title": "[[Ellevang Kirke]]",
+        "description": "[[Fil:Ellevang Kirke 1977, Poul Pedersen.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.265325, 56.216576] },
+      "properties": {
+        "title": "[[Egå Kirke]]",
+        "description": "[[Fil:Egå Kirke 1961, Jørn Timm.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.304557, 56.234084] },
+      "properties": {
+        "title": "[[Skæring Kirke]]",
+        "description": "[[File:Aarhus Domkirke 1902.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.234103, 56.235499] },
+      "properties": {
+        "title": "[[Lystrup Kirke]]",
+        "description": "[[File:Aarhus Domkirke 1902.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.167629, 56.180254] },
+      "properties": {
+        "title": "[[Helligåndskirken]]",
+        "description": "[[File:Aarhus Domkirke 1902.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.161186, 56.169720] },
+      "properties": {
+        "title": "[[Hasle Kirke]]",
+        "description": "[[Fil:Hasle kirke børge venge 1953.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.159854, 56.169126] },
+      "properties": {
+        "title": "[[Citykirken]]",
+        "description": "[[Fil:Citykirken.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.186631, 56.165249] },
+      "properties": {
+        "title": "[[Aarhus Adventistkirke]]",
+        "description": "[[File:Aarhus Domkirke 1902.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.187228, 56.108544] },
+      "properties": {
+        "title": "[[Saralystkirken]]",
+        "description": "[[File:Aarhus Domkirke 1902.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.142631, 56.122670] },
+      "properties": {
+        "title": "[[Ravnsbjergkirken]]",
+        "description": "[[File:Aarhus Domkirke 1902.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.060490, 56.124771] },
+      "properties": {
+        "title": "[[Ormslev Kirke]]",
+        "description": "[[Fil:Ormslev Kirke 1963, Pedersen, Thomas.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.070924, 56.109365] },
+      "properties": {
+        "title": "[[Kolt Kirke]]",
+        "description": "[[Fil:Kolt Kirke 1957, Børge Andre Venge.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.061819, 56.103109] },
+      "properties": {
+        "title": "[[Bering Valgmenighedskirke]]",
+        "description": "[[File:Aarhus Domkirke 1902.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.134896, 56.091936] },
+      "properties": {
+        "title": "[[Tranbjerg Kirke]]",
+        "description": "[[Fil:Tranbjerg Kirke 1998, Jens Tønnesen.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.160336, 56.067683] },
+      "properties": {
+        "title": "[[Mårslet Kirke]]",
+        "description": "[[Fil:Mårslet Kirke 1956, Thomas Pedersen.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.216597, 56.059696] },
+      "properties": {
+        "title": "[[Beder Kirke]]",
+        "description": "[[Fil:Beder Kirke 1935, Aage Fredslund Andersen.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.200351, 56.195000] },
+      "properties": {
+        "title": "[[Gratiakirken]]",
+        "description": "[[File:Aarhus Domkirke 1902.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.131103, 56.209083] },
+      "properties": {
+        "title": "[[Kasted Kirke]]",
+        "description": "[[File:Aarhus Domkirke 1902.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.122228, 56.174064] },
+      "properties": {
+        "title": "[[Skjoldhøj Kirke]]",
+        "description": "[[File:Aarhus Domkirke 1902.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.111325, 56.192993] },
+      "properties": {
+        "title": "[[Tilst Kirke]]",
+        "description": "[[Fil:Tilst Kirke1955, Thomas Pedersen.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.070082, 56.209769] },
+      "properties": {
+        "title": "[[Fårup Kirke]]",
+        "description": "[[File:Aarhus Domkirke 1902.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.168546, 56.221356] },
+      "properties": {
+        "title": "[[Lisbjerg Kirke]]",
+        "description": "[[File:Aarhus Domkirke 1902.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.197695, 56.241669] },
+      "properties": {
+        "title": "[[Elev Kirke]]",
+        "description": "[[Fil:Elev Kirke, Børge Andre Venge 1956.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.265087, 56.252330] },
+      "properties": {
+        "title": "[[Hjortshøj Kirke]]",
+        "description": "[[File:Aarhus Domkirke 1902.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.191578, 56.146311] },
+      "properties": {
+        "title": "[[Immanuelskirken|Immanuelskirken (Aarhus Baptistkirke)]]",
+        "description": "[[Fil:Immanuelskirken (Aarhus Baptistkirke) 1970, Børge Andre Venge.jpg|400px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.229123, 56.245646] },
+      "properties": {
+        "title": "[[Elsted Kirke]]",
+        "description": "[[File:Aarhus Domkirke 1902.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.200470, 56.178512] },
+      "properties": {
+        "title": "Reginehøj Bedesal/[[Christianskirken]] (1895-1946)",
+        "description": "[[Fil:Christianskirken Randersvej 1945.png|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "FF0000"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.167833, 56.151585] },
+      "properties": {
+        "title": "[[Aarhus Valgmenighed]]",
+        "description": "[[Fil:Aarhus Valgmenighed.jpg|200px]]",
+        "marker-symbol": "religious-christian",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+<mapframe text="Træk i kortet for at se kirker uden for den centrale del af Aarhus." width=850 height=650 zoom=12 latitude=56.154939 longitude=10.193927 align=center>
+{
+  "type": "FeatureCollection",
+  "features":  [
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.180919, 56.173016] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Charlottehøj|Charlottehøj Boligbebyggelse]] (1952-1953)",
+        "marker-symbol": "village",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.201580, 56.142815] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Dalgas Avenue|Dalgas Avenue bebyggelsesplaner for Seminarium og kollegier]] (1959-1962)",
+        "marker-symbol": "village",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.174828, 56.165702] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Frydenlund|Frydenlund Bebyggelsesplan]] (1961)",
+        "marker-symbol": "village",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.157880, 56.175905] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Herredsvang og Kalenderkvarteret|Herredsvang og Kalenderkvarteret Bebyggelsesplan, Kalenderkvarteret ]] (1968)",
+        "marker-symbol": "village",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.167669, 56.178992] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Herredsvang og Kalenderkvarteret|Herredsvang og Kalenderkvarteret Bebyggelsesplan, Herredsvang]] (1968)",
+        "marker-symbol": "village",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.182030, 56.143696] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Langenæs|Langenæs Bebyggelsesplan]] (1952-1956)",
+        "marker-symbol": "village",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.191398, 56.140044] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Marselis Boulevard|Marselis Boulevard Bebyggelsesplan]] (1955-1956)",
+        "marker-symbol": "village",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.202855, 56.174264] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Stjernepladsen|Stjernepladsen Bebyggelsesplaner]] (1949-1959)",
+        "marker-symbol": "village",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.195259, 56.163691] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Vestervang|Vestervang Bebyggelsesplan]] (1962)",
+        "marker-symbol": "village",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.200018, 56.186092] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Vorrevangen|Vorrevangen Bebyggelsesplan]] (1953)",
+        "marker-symbol": "village",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.205922, 56.155261] },
+      "properties": {
+        "title": "[[Busgaden]] (1969-1971)",
+        "marker-symbol": "bus",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.197979, 56.144754] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Frederiksbjerg|Frederiksbjerg byfornyelsesprojekt]] (1978-)",
+        "marker-symbol": "city",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.135368, 56.159552] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Gellerup|Gellerup Helhedsplanlægning]] (2007-nu)",
+        "marker-symbol": "city",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.201295, 56.156577] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Møllestien|Møllestien Saneringsplan]] (1968)",
+        "marker-symbol": "city",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.203912, 56.158148] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Nygade|Nygade Saneringsplaner]] (1950-1965)",
+        "marker-symbol": "city",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.204802, 56.154740] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Ny Hovedgade|Ny Hovedgade, Plan om gadegennembrud]] (1944-1954)",
+        "marker-symbol": "car",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.212455, 56.160969] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Nørreport|Nørreport Udvidelse og gadegennembrud]] (1958-1963)",
+        "marker-symbol": "car",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.189171, 56.067556] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Vilhelmsborg|Vilhelmsborg Restaurering]] (1997-1999)",
+        "marker-symbol": "farm",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.206408, 56.156674] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Aarhus Å, fritlægning|Aarhus Å, fritlægning]] (1985-1995)",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.192355, 56.154952] },
+      "properties": {
+        "title": "[[Stadsarkitektens byplaner og byggerier#Aarhus Å langs den tidligere Hammelbane|Aarhus Å langs den tidligere Hammelbane]] (1973)",
+        "marker-symbol": "park",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+]
+}
+</mapframe>
