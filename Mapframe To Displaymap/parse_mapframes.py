@@ -1,6 +1,17 @@
 import json
 from pathlib import Path
 
+"""Skeleton
+<div class="tright">
+{{#display_map:
+,~[[]];
+|width=
+|height=
+|zoom=
+|center=
+}}
+</div>
+"""
 
 def main(jsonfile):
     points = []
@@ -53,4 +64,5 @@ def main(jsonfile):
 
 
 if __name__ == "__main__":
-    main("feature.json")
+    main("væddeløbsbanen.json")
+    # main("cyklebanen.json")
