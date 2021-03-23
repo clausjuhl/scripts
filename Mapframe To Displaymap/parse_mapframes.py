@@ -1,6 +1,17 @@
 import json
 from pathlib import Path
 
+"""
+Params from the <mapframe>-tag, can be used like this inside the {{display_map}}:
+{{display_map:
+...
+|width=300
+|height=400
+|zoom=12
+|center=56.162060,10.196270
+}}
+"""
+
 
 def main(jsonfile):
     points = []
@@ -53,4 +64,4 @@ def main(jsonfile):
 
 
 if __name__ == "__main__":
-    main("feature.json")
+    main("broer.json")

@@ -1,0 +1,49 @@
+{
+  "type": "FeatureCollection",
+  "features":  [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.203567, 56.150140] },
+      "properties": {
+        "title": "2005-: [[Banegårdspladsen 11]]",
+        "description": "",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.210479, 56.155777] },
+      "properties": {
+        "title": "1915-1989: [[Kannikegade 14]]",
+        "description": "",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.211573, 56.156335] },
+      "properties": {
+        "title": "1900-1915: [[Emilienborg]]",
+        "description": "",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.182126, 56.189359] },
+      "properties": {
+        "title": "1989-2005: [[Olof Palmes Allé 39]]",
+        "description": "",
+        "marker-symbol": "building",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    }
+  ]
+}

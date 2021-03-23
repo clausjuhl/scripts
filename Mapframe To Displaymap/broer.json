@@ -1,0 +1,228 @@
+{
+  "type": "FeatureCollection",
+  "features":  [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.208532, 56.156081] },
+      "properties": {
+        "title": "[[Skt. Clemens Bro]]",
+        "description": "[[Fil:Skt. Clemens Bro 1905.jpg|200px]]",
+        "marker-symbol": "marker",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.212376, 56.153498] },
+      "properties": {
+        "title": "[[Dynkarkbroen]]",
+        "description": "[[Fil:Dynkarken og Dynkarkbroen 1903.png|200px]]",
+        "marker-symbol": "marker",
+        "marker-size": "medium",
+       "marker-color": "ff0000"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.211332, 56.154434] },
+      "properties": {
+        "title": "[[Mindebro]]",
+        "description": "[[Fil:Mindebroen set fra Revet Hammerschmidt.jpg|200px]]",
+        "marker-symbol": "marker",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.206918, 56.156720] },
+      "properties": {
+        "title": "[[Frederiksbroen (ved Immervad)|Frederiksbroen]]",
+        "description": "[[Fil:Frederiks Bro 1907.jpg|200px]]",
+        "marker-symbol": "marker",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.213430, 56.152698] },
+      "properties": {
+        "title": "[[Svingbroen]]",
+        "description": "[[Fil:Svingbroen, 1935-1940.jpg|200px]]",
+        "marker-symbol": "marker",
+        "marker-size": "medium",
+       "marker-color": "ff0000"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.203566, 56.156040] },
+      "properties": {
+        "title": "[[Christians Bro]]",
+        "description": "[[Fil:Åboulevarden 1935, Aage Fredslund Andersen.jpg|200px]]",
+        "marker-symbol": "marker",
+        "marker-size": "medium",
+       "marker-color": "ff0000"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.199370, 56.155418] },
+      "properties": {
+        "title": "[[Slusebroen]]",
+        "description": "[[Fil:Slusebroen-Ebbesen 1922.png|200px]]",
+        "marker-symbol": "marker",
+        "marker-size": "medium",
+       "marker-color": "ff0000"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.197117, 56.156123] },
+      "properties": {
+        "title": "[[Museumsbroen]]",
+        "description": "[[Fil:Museumsbroen, 1985.jpg|200px]]",
+        "marker-symbol": "marker",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.197171, 56.156846] },
+      "properties": {
+        "title": "[[Smedens Bro]]",
+        "description": "[[Fil:Smedensbro 1 juli 1911 Michele Alessio Caprani.png|200px]]",
+        "marker-symbol": "marker",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.195297, 56.156681] },
+      "properties": {
+        "title": "[[Ceresbroen]]",
+        "marker-symbol": "marker",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.182802, 56.153622] },
+      "properties": {
+        "title": "[[Lille Ringgadebro]]",
+        "marker-symbol": "marker",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.181393, 56.153479] },
+      "properties": {
+        "title": "[[Søren Frichs Bro]]",
+        "description": "[[Fil:Søren Frichs Bro 1968.jpg|200px]]",
+        "marker-symbol": "marker",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.173488, 56.143716] },
+      "properties": {
+        "title": "[[Fiskerhusbroen]]",
+        "description": "[[Fil:Fiskerhusbroen 1958-1968.jpg|200px]]",
+        "marker-symbol": "marker",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.209363, 56.155580] },
+      "properties": {
+        "title": "Thrues Bro",
+        "description": "[[Fil:Thrues Bro.jpg|200px]]",
+        "marker-symbol": "marker",
+        "marker-size": "medium",
+       "marker-color": "ff0000"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.209026, 56.155789] },
+      "properties": {
+        "title": "[[Fiskerbro]]",
+        "description": "[[Fil:Fiskerbro 1895 Thomas Sørensen.png|200px]]",
+        "marker-symbol": "marker",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.154593, 56.139676] },
+      "properties": {
+        "title": "[[Viby Ringvej|Viby Ringvej vejbro]]",
+        "marker-symbol": "marker",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.144510, 56.140292] },
+      "properties": {
+        "title": "[[Andebroen]]",
+        "marker-symbol": "marker",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.205330, 56.156445] },
+      "properties": {
+        "title": "Bro mellem Busgaden og Emil Vetts Passage",
+        "marker-symbol": "marker",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.205150, 56.156393] },
+      "properties": {
+        "title": "Bro over åen for enden af Åboulevardens kørebane",
+        "marker-symbol": "marker",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.199332, 56.156324] },
+      "properties": {
+        "title": "[[Møllebroen]]",
+        "marker-symbol": "marker",
+        "marker-size": "medium",
+       "marker-color": "ff0000"
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.213889, 56.152594] },
+      "properties": {
+        "title": "[[Bro mellem Europaplads og Hack Kampmanns Plads]]",
+        "marker-symbol": "marker",
+        "marker-size": "medium",
+       "marker-color": "0050d0"
+      }
+    }
+  ]
+}

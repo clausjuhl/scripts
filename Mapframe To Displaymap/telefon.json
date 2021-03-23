@@ -1,0 +1,12 @@
+{"features":[
+  {
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [10.208072, 56.155984] },
+  "properties": {
+    "marker-symbol": "marker",
+    "marker-size": "medium",
+    "marker-color": "0050d0"
+  }
+}
+]
+}
