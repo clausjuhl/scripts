@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import json
 from pathlib import Path
 
@@ -65,3 +66,73 @@ def main(jsonfile):
 
 if __name__ == "__main__":
     main("broer.json")
+=======
+import json
+from pathlib import Path
+
+"""Skeleton
+<div class="tright">
+{{#display_map:
+,~[[]];
+|width=
+|height=
+|zoom=
+|center=
+}}
+</div>
+"""
+
+def main(jsonfile):
+    points = []
+    polygons = []
+    lines = []
+    colors = {"0050d0": "_blue", "FF0000": "_red"}
+    sizes = {"small": "_small"}
+    symbols = {"building": "Building"}
+
+    with open(Path(jsonfile)) as f:
+        featurecollection = json.load(f)
+
+        for feature in featurecollection.get("features"):
+            if feature["geometry"].get("type") == "Point":
+                out = str()
+                longitude = str(feature["geometry"]["coordinates"][0])
+                latitude = str(feature["geometry"]["coordinates"][1])
+                title = feature["properties"].get("title", "")
+                description = feature["properties"].get("description", "")
+                out += latitude + "," + longitude
+                if title:
+                    out += "~" + title
+                if description:
+                    out += "~" + description
+                # marker_symbol = feature["properties"].get("marker-symbol")
+                # marker_size = feature["properties"].get("marker-size")
+                # marker_color = feature["properties"].get("marker-color")
+                # if marker_color:
+                #     marker_color = colors.get(marker_color, "")
+                # if marker_size:
+                #     marker_size = sizes.get(marker_size, "_small")
+                # if marker_symbol:
+                #     marker_symbol = symbols.get(marker_symbol, "")
+                points.append(out)
+            elif feature["geometry"].get("type") == "Polygon":
+                for polygon in feature["geometry"].get("coordinates"):
+                    output = []
+                    for point in polygon:
+                        output.append(str(point[1]) + "," + str(point[0]))
+                    polygons.append(":".join(output))
+
+    print("{{#display_map:")
+    for point in points:
+        print(point + ";")
+    if polygons:
+        print("|polygons=")
+        for polygon in polygons:
+            print(polygon + ";")
+    print("}}")
+
+
+if __name__ == "__main__":
+    main("væddeløbsbanen.json")
+    # main("cyklebanen.json")
+>>>>>>> 43cf8880350e24367113c69157758759b57f162b
